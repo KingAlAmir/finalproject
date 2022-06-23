@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/finalproject",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "AmirS",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    
+  }
+}
